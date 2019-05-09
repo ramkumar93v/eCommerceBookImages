@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-express-multer-multipartfile-ajax-jquery-bootstrap",
+  "version": "1.0.0",
+  "description": "Building a NodeJS/Express web-application that uses Multer middleware to upload MultipartFile with Ajax-JQuery & Bootstrap view",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "NodeJS",
+    "Express",
+    "Multer",
+    "Bootstrap",
+    "Ajax-Jquery"
+  ],
+  "author": "JavaSampleApproach.com",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "multer": "^1.3.0"
+  }
+}
